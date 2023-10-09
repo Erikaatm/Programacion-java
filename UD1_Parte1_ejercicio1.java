@@ -1,6 +1,6 @@
 package unidad1;
 
-// @auothr Erikaatm
+// @author Erikaatm
 
 public class UD1_Parte1_ejercicio1 {
  
