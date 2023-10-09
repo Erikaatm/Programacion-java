@@ -4,7 +4,7 @@ package unidad1;
 
 public class UD1_Parte1_ejercicio3 {
 	public static void main(String[] args) {
-		
+		//Imprimo por pantalla las diez palabras, con un tabulador y su respectiva traducción.
 		System.out.println("· Bee\t\t · Abeja");
 		System.out.println("· Wasp\t\t · Avispa");
 		System.out.println("· Tree\t\t · Árbol");
