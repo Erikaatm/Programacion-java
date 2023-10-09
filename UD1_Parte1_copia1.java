@@ -1,5 +1,7 @@
 package unidad1;
 
+//@author Erikaatm
+
 public class UD1_Parte1_copia1 {
 	public static void main(String[] args) {
 		// Declaracion de variables
