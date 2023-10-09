@@ -1,20 +1,20 @@
 package unidad1;
 
-//@aouthor Erikaatm
+//@auothor Erikaatm
 
 public class UD1_Parte1_ejercicio3 {
 	public static void main(String[] args) {
 		
-		System.out.println("· Abeja\t\t · Bee");
-		System.out.println("· Avispa\t · Wasp");
-		System.out.println("· Árbol\t\t · Tree");
-		System.out.println("· Berenjena\t · Aubergine/Eggplant");
-		System.out.println("· Jirafa\t · Giraffe");
-		System.out.println("· Mariposa\t · Butterfly");
-		System.out.println("· Pelota\t · Ball");
-		System.out.println("· Portátil\t · Laptop");
-		System.out.println("· Salchicha\t · Sausage");
-		System.out.println("· Silla\t\t · Chair");
+		System.out.println("· Bee\t\t · Abeja");
+		System.out.println("· Wasp\t\t · Avispa");
+		System.out.println("· Tree\t\t · Árbol");
+		System.out.println("· Aubergine\t · Berenjena");
+		System.out.println("· Giraffe\t · Jirafa");
+		System.out.println("· Butterfly\t · Mariposa");
+		System.out.println("· Ball\t\t · Pelota");
+		System.out.println("· Laptop\t · Portátil");
+		System.out.println("· Sausage\t · Salchicha");
+		System.out.println("· Chair\t\t · Silla");
 		
 	}
 }
